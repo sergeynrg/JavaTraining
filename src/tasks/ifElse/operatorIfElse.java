@@ -12,6 +12,6 @@ public class operatorIfElse {
         else if(randomNumber >38)
             System.out.println("You have health problems");
         else if (randomNumber ==36)
-            System.out.println("You are totally stronger!!!");
+            System.out.println("You are totally stronger!");
         }
     }
